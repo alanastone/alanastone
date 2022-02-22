@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alanastone
-- 👀 I’m interested in mobile developer (:
+- 👀 I’m interested in mobile development (:
 
 <!---
 alanastone/alanastone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
